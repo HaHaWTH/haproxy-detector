@@ -1,4 +1,4 @@
-# HAProxyDetector
+# HAProxyDetector-Fork
 
 [![](https://img.shields.io/github/downloads/HaHaWTH/HAProxy-Detector/total?style=for-the-badge)](https://github.com/HaHaWTH/HAProxy-Detector/releases) [![](https://img.shields.io/github/license/HaHaWTH/HAProxy-Detector?style=for-the-badge)](https://github.com/HaHaWTH/HAProxy-Detector/blob/master/LICENSE) [![](https://img.shields.io/bstats/servers/21070?label=Spigot%20Servers&style=for-the-badge)](https://bstats.org/plugin/bukkit/HAProxyDetector/21070) [![](https://img.shields.io/bstats/servers/12605?label=BC%20Servers&style=for-the-badge)](https://bstats.org/plugin/bungeecord/HAProxyDetector/12605) [![](https://img.shields.io/bstats/servers/14442?label=Velocity%20Servers&style=for-the-badge)](https://bstats.org/plugin/velocity/HAProxyDetector/14442)
 
@@ -8,6 +8,8 @@ information about [HAProxy](https://www.haproxy.org/) and its uses can be
 found [here](https://github.com/MinelinkNetwork/BungeeProxy/blob/master/README.md).
 
 **Originally made by Andylizi**
+
+**This plugins requires Java11 or higher!**
 
 ## Security Warning
 
